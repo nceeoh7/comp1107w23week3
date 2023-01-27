@@ -7,8 +7,6 @@ int main()
     //Ask for the client's name
     string name = get_string("Please enter your name.\n");
 
-    int age = 8;
-
     printf("Welcome %s!\n", name);
 
     char isRunning = 'y';
